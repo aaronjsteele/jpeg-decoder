@@ -1,0 +1,6 @@
+project: jpeg-decoder
+target: regression
+image: ghcr.io/aaronjsteele/jpeg-decoder:latest
+
+cmds:
+  - cmd: /regression
