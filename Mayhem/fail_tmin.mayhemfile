@@ -1,6 +1,5 @@
 project: jpeg-decoder
 target: fail_tmin
-image: ghcr.io/aaronjsteele/jpeg-decoder:latest
 
 cmds:
   - cmd: /fail_tmin
